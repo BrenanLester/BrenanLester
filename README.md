@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](BrenanLester/brenan_lester_github_banner)
 
 > *A passionate learner on the path to becoming an SQA Engineer and Game Developer 🎮🔍*
 
