@@ -1,4 +1,6 @@
-![Banner](BrenanLester/brenan_lester_github_banner)
+<p align="center">
+  <img width="1200" alt="Header Image" src="https://raw.githubusercontent.com/BrenanLester/BrenanLester/main/brenan_lester_github_banner.png" />
+</p>
 
 > *A passionate learner on the path to becoming an SQA Engineer and Game Developer 🎮🔍*
 
