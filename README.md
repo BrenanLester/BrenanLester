@@ -45,7 +45,7 @@
 
 ## ⚡ Fun Fact
 
-- My laziness cannot be fixed — just like a bug. It would reapper no matter what. 🐛
+- My laziness cannot be fixed — just like a bug. It will reappear no matter what. 🐛
 
 ---
 
@@ -57,9 +57,9 @@
 
 ## 🌐 Socials
 
-[![Facebook]([https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/brenan.lester.espeleta.2025))](#)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/brenan-lester-espeleta-068811369/?locale=en))](#)
-[![Gmail](brenanlesterespeleta05@gmail.com)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/brenan.lester.espeleta.2025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenan-lester-espeleta-068811369/?locale=en)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenanlesterespeleta05@gmail.com)
 
 ---
 
