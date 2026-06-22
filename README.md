@@ -1,4 +1,4 @@
-# Hi there, I'm Brenan Lester! 👋
+![Banner]()
 
 > *A passionate learner on the path to becoming an SQA Engineer and Game Developer 🎮🔍*
 
